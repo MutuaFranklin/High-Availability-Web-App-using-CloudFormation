@@ -3,7 +3,8 @@
 
 ### Description
 
-This is a repository for the second project in the AWS Cloud DevOps Engineer Udacity Nanodegree (Deploy a High Availability Web App using AWS Cloudformation).
+Deployment of a high availability Web App using AWS Cloudformation under AWS Cloud Devops Engineer Udacity Nanodegree program 
+
 
 ### Author
 
@@ -34,7 +35,7 @@ This needs to be done in an automated fashion so that the infrastructure can be 
 
 ## Project Requirements
 
-### Server spec
+### Server specifications
 
 You'll need to create a Launch Configuration for your application servers in order to deploy four servers, two located in each of your private subnets. The launch configuration will be used by an auto-scaling group.
 
