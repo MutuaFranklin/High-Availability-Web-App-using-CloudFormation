@@ -1,4 +1,4 @@
-# Deploy a High-Availability Web App using CloudFormation
+# High-Availability Web App using AWS CloudFormation
 
 
 ### Description
