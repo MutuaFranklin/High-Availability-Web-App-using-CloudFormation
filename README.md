@@ -55,7 +55,9 @@ One of the output exports of the CloudFormation script should be the public URL 
 
 Bonus points if you add http:// in front of the load balancer DNS Name in the output, for convenience.
 
-## Live Link :
+## Deployment url: 
+
+http://serve-wappl-rme1fr5jckyd-157566827.us-east-2.elb.amazonaws.com/
 
 ## Support and contact details
 
