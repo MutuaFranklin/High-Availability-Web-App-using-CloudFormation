@@ -72,7 +72,7 @@ Resources:
           unzip -o udagram_udacity.zip
           systemctl start apache2.service
       ImageId: ami-0ac80df6eff0e70b5  # This ubuntu AMI value will be needed to be changed in the future 
-      IamInstanceProfile: !Ref S3ReadOnlyEC2InstanceProfile  # This EC2 IAM role had to be created first 
+      IamInstanceProfile: !Ref S3ReadOnlyEC2InstanceProfile  # This EC2 IAM role had to be created first..
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.medium
